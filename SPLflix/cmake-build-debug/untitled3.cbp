@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="untitled3"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="C:/Users/sivan/CLionProjects/SPLflix/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/sivan/CLionProjects/SPLflix/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/sivan/CLionProjects/SPLflix/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/sivan/CLionProjects/SPLflix/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/sivan/CLionProjects/SPLflix/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="untitled3">
+				<Option output="C:/Users/sivan/CLionProjects/SPLflix/cmake-build-debug/untitled3.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/sivan/CLionProjects/SPLflix/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Users/sivan/CLionProjects/SPLflix/."/>
+					<Add directory="C:/Users/sivan/CLionProjects/SPLflix/include"/>
+					<Add directory="C:/Users/sivan/CLionProjects/SPLflix/src"/>
+					<Add directory="C:/Program Files (x86)/mingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="C:/Program Files (x86)/mingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include/c++/i686-w64-mingw32"/>
+					<Add directory="C:/Program Files (x86)/mingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="C:/Program Files (x86)/mingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include"/>
+					<Add directory="C:/Program Files (x86)/mingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="C:/Program Files (x86)/mingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/../../../../i686-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/sivan/CLionProjects/SPLflix/cmake-build-debug/Makefile&quot;  VERBOSE=1 untitled3"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/sivan/CLionProjects/SPLflix/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/sivan/CLionProjects/SPLflix/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/sivan/CLionProjects/SPLflix/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="untitled3/fast">
+				<Option output="C:/Users/sivan/CLionProjects/SPLflix/cmake-build-debug/untitled3.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/sivan/CLionProjects/SPLflix/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Users/sivan/CLionProjects/SPLflix/."/>
+					<Add directory="C:/Users/sivan/CLionProjects/SPLflix/include"/>
+					<Add directory="C:/Users/sivan/CLionProjects/SPLflix/src"/>
+					<Add directory="C:/Program Files (x86)/mingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="C:/Program Files (x86)/mingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include/c++/i686-w64-mingw32"/>
+					<Add directory="C:/Program Files (x86)/mingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="C:/Program Files (x86)/mingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include"/>
+					<Add directory="C:/Program Files (x86)/mingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="C:/Program Files (x86)/mingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/../../../../i686-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/sivan/CLionProjects/SPLflix/cmake-build-debug/Makefile&quot;  VERBOSE=1 untitled3/fast"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/sivan/CLionProjects/SPLflix/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/sivan/CLionProjects/SPLflix/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/sivan/CLionProjects/SPLflix/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="C:/Users/sivan/CLionProjects/SPLflix/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/sivan/CLionProjects/SPLflix/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/sivan/CLionProjects/SPLflix/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/sivan/CLionProjects/SPLflix/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/sivan/CLionProjects/SPLflix/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="C:/Users/sivan/CLionProjects/SPLflix/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/sivan/CLionProjects/SPLflix/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/sivan/CLionProjects/SPLflix/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/sivan/CLionProjects/SPLflix/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/sivan/CLionProjects/SPLflix/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="C:/Users/sivan/CLionProjects/SPLflix/include/Action.h">
+			<Option target="untitled3"/>
+		</Unit>
+		<Unit filename="C:/Users/sivan/CLionProjects/SPLflix/include/Json.hpp">
+			<Option target="untitled3"/>
+		</Unit>
+		<Unit filename="C:/Users/sivan/CLionProjects/SPLflix/include/Session.h">
+			<Option target="untitled3"/>
+		</Unit>
+		<Unit filename="C:/Users/sivan/CLionProjects/SPLflix/include/User.h">
+			<Option target="untitled3"/>
+		</Unit>
+		<Unit filename="C:/Users/sivan/CLionProjects/SPLflix/include/Watchable.h">
+			<Option target="untitled3"/>
+		</Unit>
+		<Unit filename="C:/Users/sivan/CLionProjects/SPLflix/src/Action.cpp">
+			<Option target="untitled3"/>
+		</Unit>
+		<Unit filename="C:/Users/sivan/CLionProjects/SPLflix/src/ChangeActiveUser.cpp">
+			<Option target="untitled3"/>
+		</Unit>
+		<Unit filename="C:/Users/sivan/CLionProjects/SPLflix/src/CreateUser.cpp">
+			<Option target="untitled3"/>
+		</Unit>
+		<Unit filename="C:/Users/sivan/CLionProjects/SPLflix/src/DeleteUser.cpp">
+			<Option target="untitled3"/>
+		</Unit>
+		<Unit filename="C:/Users/sivan/CLionProjects/SPLflix/src/DuplicateUser.cpp">
+			<Option target="untitled3"/>
+		</Unit>
+		<Unit filename="C:/Users/sivan/CLionProjects/SPLflix/src/Episode.cpp">
+			<Option target="untitled3"/>
+		</Unit>
+		<Unit filename="C:/Users/sivan/CLionProjects/SPLflix/src/Exit.cpp">
+			<Option target="untitled3"/>
+		</Unit>
+		<Unit filename="C:/Users/sivan/CLionProjects/SPLflix/src/GenreRecommenderUser.cpp">
+			<Option target="untitled3"/>
+		</Unit>
+		<Unit filename="C:/Users/sivan/CLionProjects/SPLflix/src/LengthRecommenderUser.cpp">
+			<Option target="untitled3"/>
+		</Unit>
+		<Unit filename="C:/Users/sivan/CLionProjects/SPLflix/src/Movie.cpp">
+			<Option target="untitled3"/>
+		</Unit>
+		<Unit filename="C:/Users/sivan/CLionProjects/SPLflix/src/PrintActionsLog.cpp">
+			<Option target="untitled3"/>
+		</Unit>
+		<Unit filename="C:/Users/sivan/CLionProjects/SPLflix/src/PrintContentList.cpp">
+			<Option target="untitled3"/>
+		</Unit>
+		<Unit filename="C:/Users/sivan/CLionProjects/SPLflix/src/PrintWatchHistory.cpp">
+			<Option target="untitled3"/>
+		</Unit>
+		<Unit filename="C:/Users/sivan/CLionProjects/SPLflix/src/RerunRecommenderUser.cpp">
+			<Option target="untitled3"/>
+		</Unit>
+		<Unit filename="C:/Users/sivan/CLionProjects/SPLflix/src/Session.cpp">
+			<Option target="untitled3"/>
+		</Unit>
+		<Unit filename="C:/Users/sivan/CLionProjects/SPLflix/src/User.cpp">
+			<Option target="untitled3"/>
+		</Unit>
+		<Unit filename="C:/Users/sivan/CLionProjects/SPLflix/src/Watch.cpp">
+			<Option target="untitled3"/>
+		</Unit>
+		<Unit filename="C:/Users/sivan/CLionProjects/SPLflix/src/Watchable.cpp">
+			<Option target="untitled3"/>
+		</Unit>
+		<Unit filename="C:/Users/sivan/CLionProjects/SPLflix/src/main.cpp">
+			<Option target="untitled3"/>
+		</Unit>
+		<Unit filename="C:/Users/sivan/CLionProjects/SPLflix/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
